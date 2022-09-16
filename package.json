@@ -11,6 +11,7 @@
   "author": "Guido Maciocci",
   "license": "ISC",
   "dependencies": {
+    "@rollup/plugin-node-resolve": "^14.1.0",
     "rollup": "^2.79.0",
     "three": "^0.144.0"
   }
