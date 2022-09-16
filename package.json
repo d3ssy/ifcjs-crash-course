@@ -1,0 +1,17 @@
+{
+  "name": "basicapp_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
+  },
+  "keywords": [],
+  "author": "Guido Maciocci",
+  "license": "ISC",
+  "dependencies": {
+    "rollup": "^2.79.0",
+    "three": "^0.144.0"
+  }
+}
