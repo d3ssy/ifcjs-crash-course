@@ -23,7 +23,7 @@ for(const project of projects)
 
   function createProjectCard(project)
   {
-    const viewerUrl = "/viewer.html"
+    const viewerUrl = "./viewer.html"
 
     const icon = document.createElement("span");
     icon.classList.add("material-symbols-outlined");
